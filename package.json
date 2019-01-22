@@ -1,0 +1,17 @@
+{
+  "name": "googlehome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@shooontan/google-home-notifier": "0.0.4",
+    "axios": "^0.18.0",
+    "dotenv": "^6.2.0",
+    "node-spotify-api": "^1.0.7"
+  }
+}
